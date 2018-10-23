@@ -1,1 +1,9 @@
 aqui va un archivo de comentarios 
+
+/home/erasmo/eclipse-workspace/CubeSimulator
+
+git remote add javaee https://github.com/ErasmusJuve/javaee.git
+
+
+git push javaee master
+git pull javaee master
